@@ -27,7 +27,7 @@ sudo dpkg -i node_latest_armhf.de
 
 ## Install Red Rotary phone application 
 * cd /home/pi/
-* wget  https://github.com/IoTBLR/Sherlock/archive/v0.1.zip
+* wget  https://github.com/IoTBLR/Sherlock/archive/v0.2.zip
 * cd /home/pi/RRP
 * bash /home/pi/RRP/install.sh
 Note: If prompted for password, then enter password as raspberry.
