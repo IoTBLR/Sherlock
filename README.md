@@ -41,4 +41,6 @@ When you install you will prompted to give the ***Game ID***. This is the unique
 ##Instruction Guides
 
 [Cloudant](https://github.com/IoTBLR/Sherlock/blob/master/instructions/Cloudant%20Instructions.doc?raw=true) - Instructions for entering the clues for the game play. 
-Red rotary phone - Instructions for hacking the Red Rotary phone.
+
+
+[Red rotary phone](https://github.com/IoTBLR/Sherlock/blob/master/instructions/Red%20rotary%20phone_prototype%20building.pdf) - Instructions for hacking the Red Rotary phone.
