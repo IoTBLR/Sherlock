@@ -14,11 +14,6 @@ which node
 
 while [ ${EXIT} -eq 1 ]
 do
-	node /home/pi/RRP/main.js > /dev/null 2>&1 
+	nohup node /opt/RRP/main.js > /dev/null 2>&1 
 	sleep 5
 done
-
-
-
-
-
