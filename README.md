@@ -36,3 +36,9 @@ Note: If prompted for password, then enter password as raspberry.
 Sherlock-* is to be replaced with version you download.
 For example, if v0.3.zip is downloaded, then directory name will be Sherlock-0.3.
 
+When you install you will prompted to give the ***Game ID***. This is the unique ID for this Raspberry Pi phone. Please store this values as this is required when entering the clues in Cloudant. 
+
+##Instruction Guides
+
+[Cloudant](https://github.com/IoTBLR/Sherlock/blob/master/instructions/Cloudant%20Instructions.doc?raw=true) - Instructions for entering the clues for the game play. 
+Red rotary phone - Instructions for hacking the Red Rotary phone.
