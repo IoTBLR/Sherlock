@@ -8,8 +8,8 @@
 # Short-Description: rrp deamon starts the game
 # Description:       starts the game after raspberry pi boot up is complete
 ### END INIT INFO
-PATH=${PATH}:/usr/local/bin
-RRP_PROCESS=/home/pi/RRP/main.sh
+PATH=${PATH}:/usr/local/bin:/usr/bin
+RRP_PROCESS=/opt/RRP/main.sh
 
 process_details()
 {
