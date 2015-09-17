@@ -28,8 +28,11 @@ sudo apt-get install build-essential python-dev python-rpi.gpio
 
 ## Install Red Rotary phone application 
 * cd /home/pi/
-* wget  https://github.com/IoTBLR/Sherlock/archive/v0.2.zip
-* cd /home/pi/RRP
-* bash /home/pi/RRP/install.sh
+* wget  https://github.com/IoTBLR/Sherlock/archive/v0.3.zip
+* unzip v*.zip
+* cd ./Sherlock-*
+* sudo bash ./install.sh -i
 Note: If prompted for password, then enter password as raspberry.
+Sherlock-* is to be replaced with version you download.
+For example, if v0.3.zip is downloaded, then directory name will be Sherlock-0.3.
 
